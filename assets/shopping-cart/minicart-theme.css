@@ -136,3 +136,14 @@
 #exampleModal .close:hover {
     opacity: 0.7;
 }
+#shopcartControl .mbr-icon-cog{
+    margin: 0;
+    vertical-align: middle;
+    font-size: 22px;
+    line-height: 22px;
+}
+#shoppingCart .option-delete{
+    margin: 0;
+    font-size: 24px;
+    line-height: 20px;
+}
